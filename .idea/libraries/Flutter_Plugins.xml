@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/speech_to_text_macos-1.0.2" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/flutter_background_service_android-3.0.3" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/speech_to_text-6.3.0" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/flutter_tts-3.8.3" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/flutter_background_service-2.4.6" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.dev/flutter_background_service_ios-2.4.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
